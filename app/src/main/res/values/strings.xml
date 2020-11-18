@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppIntent</string>
+    <string name="txt_dato">Dame un valor</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="txt_resul">Resultado</string>
+    <string name="btn_volver">Anterior</string>
+    <string name="txt_otro">Dame otro valor</string>
+    <string name="txt_edad">Dame tu edad</string>
+</resources>
